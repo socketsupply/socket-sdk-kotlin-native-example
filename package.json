@@ -1,5 +1,5 @@
 {
-  "name": "socket-sdk-kotlin-example",
+  "name": "socket-sdk-kotlin-native-example",
   "version": "1.0.0",
   "private": true,
   "description": "A Socket SDK example application that uses Kotlin/Native and Kotlin.js.",
